@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #faebd7;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+.firstP {
+  color: red;
+}
+
+#your-name {
+  background-color: bisque;
+  border: 5px solid #444;
+  width: 500px;
+  padding: 25px;
+}
+
+input,
+button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+a {
+  background-color: yellowgreen;
+}
+
+#your-name h2 {
+  color: olive;
+}
