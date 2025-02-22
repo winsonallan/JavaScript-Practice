@@ -18,3 +18,8 @@ showModalElement.forEach(element => {
 
 overlayElement.addEventListener('click', closeModal);
 document.querySelector('.close-modal').addEventListener('click', closeModal);
+
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape' && !modalElement.classList.contains('hidden'))
+    closeModal();
+});
