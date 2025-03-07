@@ -1,0 +1,142 @@
+1.
+============================================
+When we add (+) strings and number together -> the number will be converted into a string.
+
+ex. "I'm " + 25 -> "I'm 25"
+
+When we subtract strings and numbers together -> the strings get converted into numbers.
+
+ex. "25" - 5 - "10" -> 10
+
+
+2.
+============================================
+function declaration -> function [function name] ([parameters]) {}
+
+function declaration can be called by a line of code that is written before the function itself
+
+function expression -> let/const/var [variable name] = function ([parameters]) {}
+
+function expression can't be called by a line of code that is written before the function itself
+
+3.
+============================================
+arrow functions -> const/let/var [variable name] = ([function parameters]) => {[executed code]} 
+
+OR
+
+const/let/var [variable name] = [function parameter] => [single line of executed code]
+
+arrow functions don't get to use the 'this' keyword
+
+4.
+============================================
+const arrays can be mutated because they're not a primitve value. Non-primitive value consts can be mutated
+
+5.
+============================================
+array.push(parameter) -> add elements to the end of the array
+array.unshift(parameter) -> add elements to the top of the array
+array.pop() -> remove last
+array.shift() -> remove top
+array.indexOf(parameter) -> return index of parameter in array, if not found return -1
+array.includes('parameter') -> returns true or false if the element exists in the array
+
+6.
+============================================
+prompt('string') -> creates a popup that asks users to enter something. It's an expression which means it can be assigned to a variable. It returns string. E.g. const x = prompt('why?')
+
+7.
+============================================
+the 'this' keyword points to the name of the object variable
+
+e.g.
+
+const test = {     //const object variable named 'test'
+    firstName: "test",
+    birthYear: 1990,
+    calcAge: function () {
+        return 2037 - this.birthYear; 
+    }
+}
+
+console.log(test.calcAge()); will output 47 to the console
+
+8.
+============================================
+DOM: Structured Representation of HTML Documents which allows JS to access HTML Elements & Styles to Manipulate them
+
+9.
+============================================
+The this keyword
+
+Method -> this -> refers to object that calls the method
+
+Simple function call -> this -> undefined (strict mode) / refers to window
+
+Arrow functions -> this -> refers to 'this' of surrounding function (lexical this)
+
+Event listener -> this -> refers to the DOM element the handler is attached to
+
+10.
+============================================
+Memory Freeing
+--------------
+In Call Stack, variable environment is deleted when Execution Context pops off stack
+Heap is handled by Garbage Collection (Central Memory Management Tool)
+
+Mark and Sweep Algorithm
+------------------------
+Mark all reachable objects (in heap because they're objects) as 'alive
+Delete un-marked (unreachable) objects, reclaiming memory for future allocations
+Globally defined objects will never be deleted
+
+Memory Leaks -> When objects that are no longer needed are still incorrectly reachable which makes it not garbage collectible
+
+Memory leak avoidance
+---------------------
+Make sure to deactivate timers & event listeners when no longer used.
+Avoid declaring large objects as global variables.
+
+11.
+============================================
+Regarding choosing the right data structure to use:
+If we just need a simple list -> Choose array or sets
+If we need key/value pairs -> Choose objects or maps
+
+There are other types of BUILT-IN data structure in JS: WeakMap & WeakSet.
+
+Other NON-BUILT-IN data structures: Stacks, Queues, Linked Lists, Trees, Hash Tables.
+
+12.
+============================================
+Arrays VS Sets
+--------------
+Arrays:
+"""""""
+When need ordered list of values (might contain duplicates)
+When need to manipulate data
+
+Sets:
+"""""
+When need to work with unique values
+When high-performance is really important
+When need to remove duplicates from arrays
+
+Objects VS Maps
+---------------
+Objects:
+""""""""
+More 'traditional' key/value store
+Easier to write and access values with '.' and '[]'
+When you need to include functions (methods)
+When working with JSON (can convert to map)
+
+Maps:
+"""""
+Better performance
+Keys can have any data type
+Easy to iterate
+Easy to compute size
+When simply need to map key to values
+When you need keys that are not strings

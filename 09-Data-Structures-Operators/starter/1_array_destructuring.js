@@ -13,13 +13,13 @@ console.log(arr);
 const [first, second] = restaurant.categories;
 console.log(first, second);
 
-let [main, secondary] = restaurant2.categories;
+let [main, secondary] = restaurant.categories;
 console.log(main, secondary);
 
 [main, secondary] = [secondary, main];
 console.log(main, secondary);
 
-const [starter, mainCourse] = restaurant2.order(2, 0);
+const [starter, mainCourse] = restaurant.order(2, 0);
 console.log(starter, mainCourse);
 
 // Nested Array Destructuring

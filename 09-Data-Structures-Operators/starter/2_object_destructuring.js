@@ -12,7 +12,7 @@ const {
 
 console.log(restaurantName, hours, tags);
 
-const { menu = [], starterMenu: starters = [] } = restaurant2;
+const { menu = [], starterMenu: starters = [] } = restaurant;
 
 console.log(menu, starters);
 
@@ -53,5 +53,5 @@ console.log(betterNewArr);
 console.log(...betterNewArr);
 console.log(1, 2, 7, 8, 9);
 
-const newMenu = [...restaurant2.mainMenu, 'Gnocchi'];
+const newMenu = [...restaurant.mainMenu, 'Gnocchi'];
 console.log(newMenu);

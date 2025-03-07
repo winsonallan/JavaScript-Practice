@@ -73,5 +73,5 @@ const mainMenuCopy = [...restaurant.mainMenu];
 console.log(mainMenuCopy);
 
 // Join 2 Arrays
-const menuJoin = [...restaurant.starterMenu, ...restaurant2.mainMenu];
+const menuJoin = [...restaurant.starterMenu, ...restaurant.mainMenu];
 console.log(menuJoin);
