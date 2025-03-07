@@ -15,20 +15,20 @@ console.log('Hello' && 23 && null && 'Jonas');
 
 // Short Circuits can be used to shorten ternary and if-else conditionals
 
-if (restaurant2.orderPizza) {
-  restaurant2.orderPizza('mushrooms', 'spinach');
+if (restaurant.orderPizza) {
+  restaurant.orderPizza('mushrooms', 'spinach');
 }
 
-restaurant2.orderPizza && restaurant2.orderPizza('mushrooms', 'spinach');
+restaurant.orderPizza && restaurant.orderPizza('mushrooms', 'spinach');
 
 // The Nullish Coalescing Operator (??)
 // This operator works with NULLISH values instaed of FALSY values
 // NULLISH values -> null & undefined
 
-const guests = restaurant2.numGuests || 10;
+const guests = restaurant.numGuests || 10;
 console.log(guests);
 
-const guestCorrect = restaurant2.newGuests ?? 10;
+const guestCorrect = restaurant.newGuests ?? 10;
 console.log(guestCorrect);
 
 // Logical Assignment Operators

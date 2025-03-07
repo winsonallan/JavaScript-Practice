@@ -1,14 +1,14 @@
 'use strict';
 
 // Object Destructuring
-const { name, openingHours, categories } = restaurant2;
+const { name, openingHours, categories } = restaurant;
 console.log(name, openingHours, categories);
 
 const {
   name: restaurantName,
   openingHours: hours,
   categories: tags,
-} = restaurant2;
+} = restaurant;
 
 console.log(restaurantName, hours, tags);
 
@@ -31,14 +31,14 @@ const {
 
 console.log(o, c3);
 
-restaurant2.orderDelivery({
+restaurant.orderDelivery({
   time: '22:00',
   address: 'Via de Solle, 21',
   mainIndex: 2,
   starterIndex: 2,
 });
 
-restaurant2.orderDelivery({
+restaurant.orderDelivery({
   time: '21:30',
   address: 'Elmo Street',
 });

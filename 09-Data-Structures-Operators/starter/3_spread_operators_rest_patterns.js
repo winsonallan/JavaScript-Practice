@@ -15,15 +15,15 @@ console.log(...strExample);
 
 // console.log(ingredients);
 
-// restaurant2.orderPasta(...ingredients);
+// restaurant.orderPasta(...ingredients);
 
-const newRestaurant2 = {
+const newRestaurant = {
   foundedIn: 1991,
-  ...restaurant2,
+  ...restaurant,
   founderName: 'Giuseppe Magniollo',
 };
 
-console.log(newRestaurant2);
+console.log(newRestaurant);
 
 // Rest Patterns -> Opposite of spread operator which unpacks arrays, rest patterns instead packs elements into an array
 
@@ -38,8 +38,8 @@ const [aRest, bRest, ...othersRest] = [1, 2, 3, 4, 5];
 console.log(othersRest);
 
 const [pizza, , risotto, ...otherFood] = [
-  ...restaurant2.mainMenu,
-  ...restaurant2.starterMenu,
+  ...restaurant.mainMenu,
+  ...restaurant.starterMenu,
 ];
 
 console.log(pizza, risotto, otherFood);
@@ -47,7 +47,7 @@ console.log(pizza, risotto, otherFood);
 // For REST PATTERNS, they should always be placed in the end of the Array. Also, there should always only be one REST PATTERN at a time
 
 // Objects
-const { sat, ...weekdays } = restaurant2.openingHours;
+const { sat, ...weekdays } = restaurant.openingHours;
 console.log(weekdays);
 
 // REST PARAMETERS in Functions
@@ -65,13 +65,13 @@ add(1, 5, 2, 6, 3);
 const x2 = [19, 29, 30];
 add(...x2);
 
-restaurant2.orderPizza('mushrooms', 'onion', 'olives', 'spinach');
-restaurant2.orderPizza('mushroom');
+restaurant.orderPizza('mushrooms', 'onion', 'olives', 'spinach');
+restaurant.orderPizza('mushroom');
 
 //Copy Array
-const mainMenuCopy = [...restaurant2.mainMenu];
+const mainMenuCopy = [...restaurant.mainMenu];
 console.log(mainMenuCopy);
 
 // Join 2 Arrays
-const menuJoin = [...restaurant2.starterMenu, ...restaurant2.mainMenu];
+const menuJoin = [...restaurant.starterMenu, ...restaurant2.mainMenu];
 console.log(menuJoin);
