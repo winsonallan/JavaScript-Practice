@@ -171,6 +171,17 @@ console.log(days1);
 // navigator.language; -> Get Locale
 // new Intl.DateTimeFormat(locale).format(date);
 
+const optionsLecDate = {
+  hour: 'numeric',
+  minute: 'numeric',
+  day: 'numeric',
+  month: 'numeric',
+  year: 'numeric',
+  weekday: 'long',
+};
+
+// new Intl.DateTimeFormat(locale, optionsLecDate).format(date);
+
 // Internationalization of Numbers
 // ===============================
 const optionsNum = {
@@ -180,6 +191,7 @@ const optionsNum = {
   useGrouping: false,
 };
 const num2 = 3884756.23;
+
 console.log('US: ', new Intl.NumberFormat('en-US').format(num2));
 console.log('Germany: ', new Intl.NumberFormat('de-DE').format(num2));
 console.log('Syria: ', new Intl.NumberFormat('ar-SY').format(num2));
@@ -187,6 +199,11 @@ console.log(
   navigator.language,
   new Intl.NumberFormat(navigator.language).format(num),
 );
+
+new Intl.NumberFormat(locale, {
+  style: 'currency',
+  currency: currency,
+}).format(value);
 
 // Timers
 // ===========
@@ -207,3 +224,5 @@ setInterval(function () {
   const now = new Date();
   console.log(now);
 }, 1000);
+
+clearInterval(pizzaTimer);
