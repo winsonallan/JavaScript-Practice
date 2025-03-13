@@ -11,7 +11,7 @@ console.log(x, y, z);
 console.log(arr);
 
 const [first, second] = restaurant.categories;
-console.log(first, second);
+console.log('first:', first, 'second:', second);
 
 let [main, secondary] = restaurant.categories;
 console.log(main, secondary);
@@ -20,7 +20,7 @@ console.log(main, secondary);
 console.log(main, secondary);
 
 const [starter, mainCourse] = restaurant.order(2, 0);
-console.log(starter, mainCourse);
+console.log('starter', starter, 'mainCourse', mainCourse);
 
 // Nested Array Destructuring
 const nested = [2, 3, [4, 5]];

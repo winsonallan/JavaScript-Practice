@@ -27,7 +27,7 @@ function calcAge(birthYear) {
 const firstName = 'Jonas';
 calcAge(1991);
 
-// var is function scoped only. It ignores block scopes unlike let and const. This is why the variable 'millenial is still accessible in the console.log();
+// var is function scoped only. It ignores block scopes unlike let and const. This is why the variable 'millenial' is still accessible in the console.log();
 // functions are both block and function scoped
 
 //Hoisting = Makes some types of variables accessible before declaration
