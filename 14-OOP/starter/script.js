@@ -10,6 +10,7 @@ const Person = function (firstName, birthYear) {
   this.birthYear = birthYear;
 
   // Never create a function inside a constructor, it would be the same as creating a new function each time the Object is instantiated
+
   //   this.calcAge = function () {
   //     console.log(2037 - this.birthYear);
   //   };
