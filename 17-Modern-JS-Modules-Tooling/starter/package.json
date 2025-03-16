@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "core-js": "^3.41.0",
+    "lodash-es": "^4.17.21",
+    "regenerator-runtime": "^0.14.1"
+  },
+  "name": "starter",
+  "version": "1.0.0",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
