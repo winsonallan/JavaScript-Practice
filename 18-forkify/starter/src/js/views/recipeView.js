@@ -11,6 +11,14 @@ class RecipeView extends View {
     ['hashchange', 'load'].forEach(ev => window.addEventListener(ev, handler));
   }
 
+  addHandlerUpdateServings(handler) {
+    this._parentElement.addEventListener('click', function (e) {
+      const btn = e.target.closest('.btn--tiny');
+      if (!btn) return;
+      console.log(btn);
+    });
+  }
+
   _generateMarkup() {
     return `
       <figure class="recipe__fig">
@@ -89,16 +97,17 @@ class RecipeView extends View {
 
   _generateMarkupIngredient(ing) {
     return `
-        <li class="recipe__ingredient">
-            <svg class="recipe__icon">
-            <use href="${icons}#icon-check"></use>
-            </svg>
-            <div class="recipe__quantity">${ing.quantity ? fracty(ing.quantity) : ''}</div>
-            <div class="recipe__description">
-            <span class="recipe__unit">${ing.unit}</span>
-            ${ing.description}
-            </div>
-        </li>`;
+      <li class="recipe__ingredient">
+          <svg class="recipe__icon">
+          <use href="${icons}#icon-check"></use>
+          </svg>
+          <div class="recipe__quantity">${ing.quantity ? fracty(ing.quantity) : ''}</div>
+          <div class="recipe__description">
+          <span class="recipe__unit">${ing.unit}</span>
+          ${ing.description}
+          </div>
+      </li>
+    `;
   }
 }
 

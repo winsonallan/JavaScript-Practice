@@ -713,10 +713,16 @@ const controlPagination = function(goToPage) {
     (0, _resultsViewDefault.default).render(_model.getSearchResultsPage(goToPage));
     (0, _paginationViewDefault.default).render(_model.state.search);
 };
+const controlServings = function() {
+    _model.updateServings(8);
+    (0, _recipeViewDefault.default).render(_model.state.recipe);
+};
 const init = function() {
     (0, _recipeViewDefault.default).addHandlerRender(controlRecipes);
+    (0, _recipeViewDefault.default).addHandlerUpdateServings(controlServings);
     (0, _searchViewDefault.default).addHandlerSearch(controlSearchResults);
     (0, _paginationViewDefault.default).addHandlerClick(controlPagination);
+    controlServings();
 };
 init();
 
@@ -1980,6 +1986,7 @@ parcelHelpers.export(exports, "state", ()=>state);
 parcelHelpers.export(exports, "loadRecipe", ()=>loadRecipe);
 parcelHelpers.export(exports, "loadSearchResults", ()=>loadSearchResults);
 parcelHelpers.export(exports, "getSearchResultsPage", ()=>getSearchResultsPage);
+parcelHelpers.export(exports, "updateServings", ()=>updateServings);
 var _regeneratorRuntime = require("regenerator-runtime");
 var _config = require("./config");
 var _helpers = require("./helpers");
@@ -2034,6 +2041,12 @@ const getSearchResultsPage = function(page = state.search.page) {
     const start = (page - 1) * (0, _config.RES_PER_PAGE);
     const end = page * (0, _config.RES_PER_PAGE);
     return state.search.results.slice(start, end);
+};
+const updateServings = function(newServings) {
+    state.recipe.ingredients.foreach((ing)=>{
+        ing.quantity = ing.quantity * newServings / state.recipe.servings;
+    });
+    state.recipe.servings = newServings;
 };
 
 },{"regenerator-runtime":"f6ot0","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","./config":"2hPh4","./helpers":"7nL9P"}],"f6ot0":[function(require,module,exports,__globalThis) {
@@ -2709,6 +2722,13 @@ class RecipeView extends (0, _viewJsDefault.default) {
             'load'
         ].forEach((ev)=>window.addEventListener(ev, handler));
     }
+    addHandlerUpdateServings(handler) {
+        this._parentElement.addEventListener('click', function(e) {
+            const btn = e.target.closest('.btn--tiny');
+            if (!btn) return;
+            console.log(btn);
+        });
+    }
     _generateMarkup() {
         return `
       <figure class="recipe__fig">
@@ -2786,16 +2806,17 @@ class RecipeView extends (0, _viewJsDefault.default) {
     }
     _generateMarkupIngredient(ing) {
         return `
-        <li class="recipe__ingredient">
-            <svg class="recipe__icon">
-            <use href="${0, _iconsSvgDefault.default}#icon-check"></use>
-            </svg>
-            <div class="recipe__quantity">${ing.quantity ? (0, _fractyDefault.default)(ing.quantity) : ''}</div>
-            <div class="recipe__description">
-            <span class="recipe__unit">${ing.unit}</span>
-            ${ing.description}
-            </div>
-        </li>`;
+      <li class="recipe__ingredient">
+          <svg class="recipe__icon">
+          <use href="${0, _iconsSvgDefault.default}#icon-check"></use>
+          </svg>
+          <div class="recipe__quantity">${ing.quantity ? (0, _fractyDefault.default)(ing.quantity) : ''}</div>
+          <div class="recipe__description">
+          <span class="recipe__unit">${ing.unit}</span>
+          ${ing.description}
+          </div>
+      </li>
+    `;
     }
 }
 exports.default = new RecipeView();
@@ -3030,7 +3051,6 @@ class PaginationView extends (0, _viewDefault.default) {
     _generateMarkup() {
         const curPage = this._data.page;
         const numPages = Math.ceil(this._data.results.length / this._data.resultsPerPage);
-        console.log(curPage, numPages);
         // Page 1, and there are other pages
         if (curPage === 1 && numPages > 1) return `
             <button data-goto="${curPage + 1}" class="btn--inline pagination__btn--next">
