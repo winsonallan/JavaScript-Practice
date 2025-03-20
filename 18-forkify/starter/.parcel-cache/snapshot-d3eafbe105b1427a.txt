@@ -1,4 +1,4 @@
-8147
+8148
 146D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\internals\to-absolute-index.js133868392154191493 0
 135D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\actual\string\at.js133868392065870140 0
 144D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\stable\string\replace-all.js133868392140828766 0
@@ -36,7 +36,7 @@
 153D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\node-gyp-build-optional-packages\package.json133868267661395741 0
 123D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\posthtml-parser133868267661204080 1
 114D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\parcel133868267691271706 1
-99D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist133869500697120280 1
+99D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist133869527848777508 1
 153D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\string\virtual\is-well-formed.js133868392121059230 0
 135D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\fs\src\OverlayFS.js133868267694669443 0
 125D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@msgpackr-extract133868407323271018 1
@@ -50,6 +50,10 @@
 132D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@lezer\lr\dist\index.cjs133868267660795930 0
 155D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\internals\create-property-descriptor.js133868392073094852 0
 131D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\escalade\dist\index.mjs133868267661483324 0
+131D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\stable\index.js133868392116306167 0
+134D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\nullthrows\nullthrows.d.ts133868267660729961 0
+132D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\domelementtype\readme.md133868267661879347 0
+115D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\Final Challenges.png133869528912118222 0
 146D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@swc\helpers\esm\_apply_decs_2203_r.js133868267665318453 0
 124D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\index.js133868392116011624 0
 136D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\array\concat.js133868392071049509 0
@@ -81,12 +85,6 @@
 139D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\actual\date\get-year.js133868392107476125 0
 123D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\forkify-flowchart-part-3.png133783042770000000 0
 153D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\number\virtual\to-exponential.js133868392155008798 0
-154D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\posthtml\node_modules\htmlparser2\package.json133868267661793778 0
-115D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js133868392169648277 1
-138D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\features\map\reduce.js133868392139087873 0
-146D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\caniuse-lite\data\features\svg-smil.js133868267675170426 0
-125D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\commander\LICENSE133868267660226889 0
-132D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\semver\classes\semver.js133868267664047042 0
 150D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\transformer-image\src\loadSharp.js133868267678953783 0
 128D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\nullthrows\README.md133868267661410847 0
 141D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\actual\number\to-fixed.js133868392155117348 0
@@ -216,14 +214,14 @@
 120D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\sass\sass.js133868268280621200 0
 117D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\src\sass\_preview.scss133783042770000000 0
 137D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\weak-lru-cache\dist\index.cjs133868267660241991 0
-127D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\is-number\README.md133868267660928284 0
-123D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\src\sass\_searchResults.scss133783042770000000 0
-157D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\posthtml\node_modules\domutils\lib\feeds.d.ts.map133868267662204789 0
-142D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\instance\unique-by.js133868392165363859 0
 159D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\types-internal\lib\DependencySpecifier.d.ts133868267671853232 0
 140D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\term-size\vendor\macos\term-size133868267661151922 0
 146D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\actual\string\virtual\small.js133868392146692378 0
 131D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\semver\functions\lte.js133868267663185664 0
+157D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\posthtml\node_modules\domutils\lib\feeds.d.ts.map133868267662204789 0
+142D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\instance\unique-by.js133868392165363859 0
+127D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\is-number\README.md133868267660928284 0
+123D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\src\sass\_searchResults.scss133783042770000000 0
 148D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\codeframe\test\codeframe.test.js133868267667432166 0
 141D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\core\test\fixtures\config133868267700309328 1
 146D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\stable\typed-array\subarray.js133868392152070922 0
@@ -245,7 +243,7 @@
 111D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\src\js\config.js133868721752725092 0
 130D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\set\of.js133868392133858024 0
 141D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\symbol\observable.js133868392133499479 0
-115D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\src\js\controller.js133869500696161669 0
+115D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\src\js\controller.js133869506697289934 0
 146D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\cosmiconfig\dist\ExplorerBase.d.ts.map133868267663200892 0
 134D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\source-map-js\package.json133868268279224206 0
 152D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\features\string\virtual\match-all.js133868392129862125 0
@@ -260,8 +258,8 @@
 139D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\actual\function\bind.js133868392067552479 0
 139D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\es\iterator\for-each.js133868392102588981 0
 158D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\posthtml\node_modules\domutils\lib\legacy.d.ts.map133868267662478399 0
-110D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\src\js\model.js133869497410382354 0
-124D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\src\js\views\addRecipeView.js133868722697918684 0
+110D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\src\js\model.js133869521766387040 0
+124D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\src\js\views\addRecipeView.js133869511099759526 0
 148D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb133868267666589132 1
 135D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\stable\math\imul.js133868392110133867 0
 139D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\caniuse-lite\data\regions\IL.js133868267670220051 0
@@ -279,11 +277,11 @@
 150D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\source-map-js\lib\source-map-consumer.d.ts133868268279320777 0
 154D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@swc\helpers\esm\_object_without_properties.js133868267666517343 0
 129D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\stable\regexp133868392160674486 1
-121D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\src\js\views\recipeView.js133868642514693749 0
+121D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\src\js\views\recipeView.js133869515216469420 0
 132D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\timsort\build\timsort.js133868267661549151 0
 141D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\internals\shared-store.js133868392145506441 0
 128D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@swc\core\Visitor.js133868267660800977 0
-122D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\src\js\views\previewView.js133868656429878923 0
+122D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\src\js\views\previewView.js133869516113242492 0
 137D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\object\freeze.js133868392103337402 0
 147D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\actual\array-buffer\transfer.js133868392161245962 0
 135D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\es\number\is-nan.js133868392119377982 0
@@ -294,7 +292,7 @@
 111D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\src\img\logo.png133783042770000000 0
 140D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\object\is-sealed.js133868392120004443 0
 151D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\entities\lib\esm\generated\encode-html.d.ts133868267664645851 0
-115D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\src\js\views\view.js133868662652780880 0
+115D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\src\js\views\view.js133869528015832704 0
 158D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg133868267701536330 1
 140D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\actual\symbol\key-for.js133868392125028874 0
 137D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\es\instance\splice.js133868392148958399 0
@@ -397,6 +395,12 @@
 140D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\structured-clone.js133868392151481182 0
 177D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0\package.json133868267690831846 0
 117D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\commander133868267662514061 1
+154D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\posthtml\node_modules\htmlparser2\package.json133868267661793778 0
+115D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js133868392169648277 1
+138D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\features\map\reduce.js133868392139087873 0
+146D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\caniuse-lite\data\features\svg-smil.js133868267675170426 0
+125D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\commander\LICENSE133868267660226889 0
+132D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\semver\classes\semver.js133868267664047042 0
 165D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\040-presets.md133868267664672487 0
 119D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\cosmiconfig133868267664036942 1
 124D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\tslib\tslib.html133868267660416963 0
@@ -719,14 +723,14 @@
 137D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\stable\string\link.js133868392127275829 0
 147D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\internals\async-iterator-map.js133868392065463137 0
 122D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\semver\classes133868267664031864 1
-144D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\profiler\test\Tracer.test.js133868267670548314 0
-142D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@swc\helpers\esm\_object_spread.js133868267666495959 0
-120D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\entities\lib133868267664786305 1
-121D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\utility-types133868267662586390 1
-144D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\features\iterator\dispose.js133868392075665598 0
 170D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\core\test\fixtures\custom-targets-distdir\package.json133868267702973682 0
 140D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\workers\test\integration133868267666038123 1
 148D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\internals\async-iterator-wrap.js133868392065534727 0
+144D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\profiler\test\Tracer.test.js133868267670548314 0
+142D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@swc\helpers\esm\_object_spread.js133868267666495959 0
+144D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\features\iterator\dispose.js133868392075665598 0
+120D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\entities\lib133868267664786305 1
+121D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\utility-types133868267662586390 1
 122D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\weak-lru-cache133868267661949909 1
 124D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\fracty\fracty.js133868407322948780 0
 140D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\weak-map\emplace.js133868392076432908 0
@@ -1485,8 +1489,6 @@
 149D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\actual\typed-array\copy-within.js133868392072454220 0
 145D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\lightningcss\node_modules\detect-libc133868267661655965 1
 118D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\sass\types133868268281596626 1
-136D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\math\radians.js133868392137653572 0
-146D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\stable\array\virtual\concat.js133868392071204174 0
 136D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\sass\types\deprecations.d.ts133868268280973848 0
 133D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\sass\types\exception.d.ts133868268281009244 0
 155D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\object\get-own-property-symbols.js133868392107065014 0
@@ -2159,9 +2161,6 @@
 126D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\nullthrows\LICENSE133868267660442051 0
 133D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\msgpackr\dist\test.js.map133868267664401481 0
 160D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\proposals\data-view-get-set-uint8-clamped.js133868392073297714 0
-131D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\stable\index.js133868392116306167 0
-134D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\nullthrows\nullthrows.d.ts133868267660729961 0
-132D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\domelementtype\readme.md133868267661879347 0
 147D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\caniuse-lite\data\features\mpeg-dash.js133868267672605121 0
 147D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\features\object\from-entries.js133868392103800509 0
 132D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\nullthrows\nullthrows.js133868267660990618 0
@@ -2577,10 +2576,10 @@
 141D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\features\function\bind.js133868392067801441 0
 148D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\lightningcss-win32-x64-msvc\package.json133868267660421951 0
 128D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\lightningcss\LICENSE133868267660195301 0
+133D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\lightningcss\package.json133868267662315985 0
 125D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\graph\src133868267667797282 1
 145D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\features\instance\group-by.js133868392108362453 0
 132D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\js-yaml\lib\type\bool.js133868267660831252 0
-133D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\lightningcss\package.json133868267662315985 0
 150D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\stable\array\virtual\find-index.js133868392098348952 0
 154D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\transformer-postcss\src\loadPlugins.js133868267670507469 0
 158D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\lightningcss\node_modules\detect-libc\package.json133868267661325076 0
@@ -3856,7 +3855,7 @@
 145D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\stable\instance\to-spliced.js133868392159204607 0
 151D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\proposals\array-grouping-stage-3.js133868392063846461 0
 145D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\stable\instance\trim-start.js133868392163036703 0
-123D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist\starter.4a59a05f.js.map133869500696741951 0
+123D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist\starter.4a59a05f.js.map133869527848391983 0
 133D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\reporter-cli\test133868267692831255 1
 131D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\braces\lib\stringify.js133868267661671435 0
 145D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\caniuse-lite\data\features\imports.js133868267670388330 0
@@ -3948,6 +3947,8 @@
 136D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\stable\array\with.js133868392169286044 0
 136D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\types\lib\index.d.ts133868267666073630 0
 142D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\stable\array\virtual\at.js133868392066613862 0
+136D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\math\radians.js133868392137653572 0
+146D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\stable\array\virtual\concat.js133868392071204174 0
 147D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\stable\array\virtual\entries.js133868392077488580 0
 150D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\modules\esnext.set.is-subset-of.js133868392092858883 0
 142D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\features\typed-array\of.js133868392133720663 0
@@ -4344,7 +4345,7 @@
 135D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\config-default\test133868267696498510 1
 143D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\modules\es.string.substr.js133868392085872827 0
 140D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\modules\es.string.sup.js133868392085903628 0
-118D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist\icons.21bad73c.svg133868729052687013 0
+118D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist\icons.21bad73c.svg133869516115781890 0
 151D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\caniuse-lite\data\features\css-clip-path.js133868267666338360 0
 147D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\modules\es.string.trim-right.js133868392086036284 0
 135D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\transformer-css\lib133868267671659889 1
@@ -4910,7 +4911,7 @@
 145D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\typed-array\to-sorted.js133868392158551807 0
 140D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\internals\set-helpers.js133868392143453914 0
 145D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\internals\set-intersection.js133868392143628069 0
-110D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist\index.html133869494776792816 0
+110D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist\index.html133869516116203788 0
 149D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\internals\set-is-disjoint-from.js133868392143855200 0
 145D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\internals\set-is-subset-of.js133868392143936364 0
 147D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\internals\set-is-superset-of.js133868392144004888 0
@@ -5349,7 +5350,7 @@
 139D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\error\to-string.js133868392160421214 0
 149D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\dom-exception\constructor.js133868392072017420 0
 151D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\features\typed-array\to-reversed.js133868392157786852 0
-120D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist\favicon.8b2f57bf.png133868729049480098 0
+120D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist\favicon.8b2f57bf.png133869516115960141 0
 143D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\dom-exception\index.js133868392114502238 0
 143D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\actual\iterator\for-each.js133868392102476487 0
 148D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\full\dom-collections\iterator.js133868392123697432 0
@@ -6232,7 +6233,7 @@
 136D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\es\array\for-each.js133868392102523139 0
 152D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\transformer-html\src\dependencies.js133868267679863484 0
 136D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\es\array\includes.js133868392110336910 0
-119D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist\starter.4a59a05f.js133869500696645563 0
+119D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist\starter.4a59a05f.js133869527848304867 0
 136D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\es\array\is-array.js133868392117845847 0
 136D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\es\array\iterator.js133868392123152005 0
 141D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\es\array\last-index-of.js133868392126346241 0
@@ -6496,7 +6497,7 @@
 139D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\@parcel\watcher\src\Debounce.cc133868267661600530 0
 142D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\actual\object\is-frozen.js133868392118962100 0
 137D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\actual\object\seal.js133868392142201134 0
-120D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist\starter.f7626f62.css133868729051887504 0
+120D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist\starter.f7626f62.css133869516115848579 0
 144D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\actual\number\constructor.js133868392071616332 0
 140D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\actual\number\epsilon.js133868392077974584 0
 138D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\core-js\actual\number\index.js133868392111975935 0
@@ -8143,6 +8144,6 @@
 119D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\.bin\semver133868267798581643 0
 123D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\.bin\semver.cmd133868267798581643 0
 123D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\node_modules\.bin\semver.ps1133868267798581643 0
-118D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist\icons.0809ef97.svg133868729051252106 0
-117D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist\logo.726d37a8.png133868729050792609 0
-124D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist\starter.f7626f62.css.map133868729052010677 0
+118D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist\icons.0809ef97.svg133869516115899623 0
+117D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist\logo.726d37a8.png133869516115833370 0
+124D:\Desktop\Study\The Comnplete JavaScript Course 2025 - From Zero to Export\18-forkify\starter\dist\starter.f7626f62.css.map133869516116016120 0
