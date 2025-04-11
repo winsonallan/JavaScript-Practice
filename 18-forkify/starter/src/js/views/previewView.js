@@ -2,12 +2,12 @@ import icons from 'url:../../img/icons.svg';
 import View from './view';
 
 class PreviewView extends View {
-  _parentElement = '';
+	_parentElement = '';
 
-  _generateMarkup() {
-    const id = window.location.hash.slice(1);
+	_generateMarkup() {
+		const id = window.location.hash.slice(1);
 
-    return `
+		return `
         <li class="preview">
             <a class="preview__link ${this._data.id === id ? 'preview__link--active' : ''}" href="#${this._data.id}">
               <figure class="preview__fig">
@@ -26,7 +26,7 @@ class PreviewView extends View {
             </a>
           </li>
     `;
-  }
+	}
 }
 
 export default new PreviewView();
